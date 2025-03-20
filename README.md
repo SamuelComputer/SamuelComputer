@@ -8,7 +8,7 @@ I am **Samuel Sunday Iyanu**, a passionate **Django Developer**.
 Currently in my final year at **Federal University of Technology, Minna, Niger State**, pursuing a **Bachelor of Engineering**.  
 
 I have experience working with **Python, Django, and JavaScript**.  
-I work with frameworks like **Django** to build scalable and efficient backend solutions.
+I work with frameworks like **Django, DJ-RestFrameWork** to build scalable and efficient backend solutions.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=600&lines=Hi%2C+I'm+Samuel+Sunday+Iyanu;I'm+a+Backend+Developer;I'm+a+Web+Developer;I'm+a+Graphics+Designer;I+Love+Learning+New+Tech)](https://git.io/typing-svg)
 
@@ -16,8 +16,8 @@ I work with frameworks like **Django** to build scalable and efficient backend s
 
 ## 🌱 What I'm Currently Doing  
 
-- 🚀 Learning **Docker, Kubernetes, and Cloud Deployment**  
-- 🔎 Exploring **Backend Engineering & Automation**  
+- 🚀 Learning **Advance Django Concept, Docker, Kubernetes, and Cloud Deployment**  
+- 🔎 Exploring **Backend Engineering, Software Development & FullStack Development**  
 - 🎯 Open to **Internships & Job Opportunities**  
 - 👨‍💻 Looking to **collaborate on open-source projects and hackathons**  
 
@@ -64,4 +64,4 @@ I work with frameworks like **Django** to build scalable and efficient backend s
 
 ---
 
-### ⚡ *"Turning ideas into reality through code!"* 🚀
+### ⚡ *"...code ideas into reality !"* 🚀
