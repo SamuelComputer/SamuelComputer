@@ -43,14 +43,14 @@ I work with frameworks like **Django** to build scalable and efficient backend s
 ## 📊 GitHub Activity  
 
 ### 🔥 Contribution Graph  
-[![Samuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelsundayiyanu&theme=react-dark)](https://github.com/samuelsundayiyanu/github-readme-activity-graph)
+[![Samuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelsundayiyanu&theme=react-dark)](https://github.com/SamuelComputer/github-readme-activity-graph)
 
 ### 🏆 Achievements & Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuelsundayiyanu&theme=darkhub)](https://github.com/samuelsundayiyanu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuelsundayiyanu&theme=darkhub)](https://github.com/SamuelComputer/github-profile-trophy)
 
 ### 📈 GitHub Stats  
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsundayiyanu&show_icons=true&theme=radical)](https://github.com/samuelsundayiyanu/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsundayiyanu&layout=compact&theme=radical)](https://github.com/samuelsundayiyanu/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsundayiyanu&show_icons=true&theme=radical)](https://github.com/SamuelComputer/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsundayiyanu&layout=compact&theme=radical)](https://github.com/SamuelComputer/github-readme-stats)
 
 ---
 
@@ -58,8 +58,8 @@ I work with frameworks like **Django** to build scalable and efficient backend s
 
 - 📧 **Email:** [samuelsundayiyanu@gmail.com](mailto:samuelsundayiyanu@gmail.com)  
 - 💼 **LinkedIn:** [Samuel Sunday Iyanu](https://www.linkedin.com/in/samuel-sunday-iyanuoluwa)  
-- 🐦 **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)  
-- 🏠 **Portfolio:** [your-portfolio-link](https://your-portfolio-link.com)  
+- 🐦 **Twitter:** [Connect With Me on X](https://twitter.com/your_twitter_handle)  
+- 🏠 **Portfolio:** [See My Portfolio](https://your-portfolio-link.com)  
 
 ---
 
