@@ -16,7 +16,7 @@ I work with frameworks like **Django, DJ-RestFrameWork** to build scalable and e
 
 ## 🌱 What I'm Currently Doing  
 
-- 🚀 Learning **Advance Django Concept, Docker, Kubernetes, and Cloud Deployment**  
+- 🚀 Learning **Advanced Django Concept, Docker, Kubernetes, and Cloud Deployment**  
 - 🔎 Exploring **Backend Engineering, Software Development & FullStack Development**  
 - 🎯 Open to **Internships & Job Opportunities**  
 - 👨‍💻 Looking to **collaborate on open-source projects and hackathons**  
