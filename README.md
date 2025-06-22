@@ -28,11 +28,6 @@ I work with frameworks like **Django, DJ-RestFrameWork** to build scalable and e
 
 ---
 
-## 📊 GitHub Activity  
-
-### 🔥 Contribution Graph  
-[![Samuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelComputer&theme=react-dark)](https://github.com/SamuelComputer/github-readme-activity-graph)
-
 ### 🏆 Achievements & Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamuelComputer&theme=darkhub)](https://github.com/SamuelComputer/github-profile-trophy)
 
