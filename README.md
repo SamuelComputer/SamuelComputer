@@ -31,8 +31,6 @@ I work with frameworks like **Django, DJ-RestFrameWork** to build scalable and e
 ### 🏆 Achievements & Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamuelComputer&theme=darkhub)](https://github.com/SamuelComputer/github-profile-trophy)
 
-### 📈 GitHub Stats  
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelComputer&show_icons=true&theme=radical)](https://github.com/SamuelComputer/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelComputer&layout=compact&theme=radical)](https://github.com/SamuelComputer/github-readme-stats)
 
