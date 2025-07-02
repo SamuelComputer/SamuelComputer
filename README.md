@@ -4,11 +4,11 @@
 
 **`Digital Craftsman (Web Developer | Graphics Designer | Backend Developer | Data Scientist and Analyst)`**  
 
-I am **Samuel Sunday Iyanu**, a passionate **Django Developer**.  
+I am **Samuel Sunday Iyanu**, a passionate **Data Scientist and Django Developer**.  
 Currently in my final year at **Federal University of Technology, Minna, Niger State**, pursuing a **Bachelor of Engineering**.  
 
 I have experience working with **Python, Django, and JavaScript**.  
-I work with frameworks like **Django, DJ-RestFrameWork** to build scalable and efficient backend solutions.
+I work with frameworks like **Jupyter Lab, Django, DJ-RestFrameWork** to build data-driven, scalable and efficient backend solutions.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=600&lines=Hi%2C+I'm+Samuel+Sunday+Iyanu;I'm+a+Backend+Developer;I'm+a+Web+Developer;I'm+a+Graphics+Designer;I+Love+Learning+New+Tech)](https://git.io/typing-svg)
 
