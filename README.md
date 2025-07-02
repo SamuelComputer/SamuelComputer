@@ -2,7 +2,7 @@
 
 ## About Me ⚡
 
-**`Digital Craftsman (Web Developer | Graphics Designer | Backend Developer | Financial Market Analyst)`**  
+**`Digital Craftsman (Web Developer | Graphics Designer | Backend Developer | Data Scientist and Analyst)`**  
 
 I am **Samuel Sunday Iyanu**, a passionate **Django Developer**.  
 Currently in my final year at **Federal University of Technology, Minna, Niger State**, pursuing a **Bachelor of Engineering**.  
