@@ -28,10 +28,6 @@ I work with frameworks like **Jupyter Lab, Django, DJ-RestFrameWork** to build d
 
 ---
 
-### 🏆 Achievements & Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamuelComputer&theme=darkhub)](https://github.com/SamuelComputer/github-profile-trophy)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelComputer&layout=compact&theme=radical)](https://github.com/SamuelComputer/github-readme-stats)
 
 ---
