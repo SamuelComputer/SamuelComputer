@@ -16,8 +16,8 @@ I work with frameworks like **Jupyter Lab, Django, DJ-RestFrameWork** to build d
 
 ## 🌱 What I'm Currently Doing  
 
-- 🚀 Learning **Advanced Django Concept, Docker, Kubernetes, and Cloud Deployment**  
-- 🔎 Exploring **Backend Engineering, Software Development & FullStack Development**  
+- 🚀 Learning **Advanced Django Concept, Machine Learning, Artificial Intelligence, Deep Learning and Cloud Deployment**  
+- 🔎 Exploring **Backend Engineering, Data Science and Analytics, Software Development**  
 - 🎯 Open to **Internships & Job Opportunities**  
 - 👨‍💻 Looking to **collaborate on open-source projects and hackathons**  
 
